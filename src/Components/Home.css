@@ -1,0 +1,66 @@
+.home-fs {
+  font-size: 60px;
+  color: #218BBB;
+}
+
+.home-fm {
+  font-size: 30px;
+  color: #0E4D63;
+}
+
+.home-fn {
+  font-size: 15px;
+}
+
+.home-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-left: 50px;
+}
+
+.home-info {
+  flex: 1;
+  text-align: left;
+}
+
+.home-image {
+  width: 600px; /* Adjust the width as needed */
+  height: auto;
+  margin-left: 20px; /* Optional: Add some space between the text and the image */
+  margin-right: 20px;
+}
+
+.home-image-bottom {
+  width: 40%; 
+  height: auto;
+  margin-top: 20px;
+  float: left; 
+  margin-right: 130px;
+  
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+}
+
+.wrapper {
+  margin: 50px auto;
+  width: 75%;
+
+}
+
+.about-home {
+  color: #218BBB;
+  font-size: 50px;
+}
+
+.name-fn {
+  color: #0E4D63;
+  font-size: 26px;
+}
