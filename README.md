@@ -1,3 +1,11 @@
+### THIS IS AN WEB DESIGN PRACTICE FOR A INSTITUTE LANDING PAGE WITH FOCUSED ON DESIGNING NAVBA, HEADER AND FOOTER FUNCTIONS
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
